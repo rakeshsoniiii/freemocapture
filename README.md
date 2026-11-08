@@ -20,7 +20,7 @@
   - `uv sync` — installs skellytracker with NVIDIA GPU acceleration on Windows/Linux, or CPU-only on macOS, automatically
   - No supported GPU on Windows/Linux? Force the CPU-only build instead: `uv sync --no-default-groups --group cpu`
 ### React GUI
-0. Install Node.js
+0. Install Node.js .
    - https://nodejs.org/en/download/
 1. Change directory to the `freemocap-ui` folder 
    - `cd freemocap-ui`
